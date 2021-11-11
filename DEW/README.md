@@ -1,1 +1,1 @@
-Stuff made with pure JS, HTML and CSS.
+JS, HTML and CSS.
